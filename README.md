@@ -1,6 +1,6 @@
-###
 
 
+## discord: nite#4379 <a href="https://www.linkedin.com/in/jhonata-moura-33b380238/">🖥️ Linkedin</a> 
 
 <div align="center">
   
@@ -22,7 +22,7 @@
 </div>
   
   
-  ##
+  
 
   
 
