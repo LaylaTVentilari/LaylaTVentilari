@@ -5,8 +5,8 @@ Hi, I'm a Fullstack Developer.
 <div align="center">
   
   <a href="https://github.com/DarkNiteDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=DarkNiteDev&show_icons=true&theme=gotham" alt="DarkNiteDev" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNiteDev&layout=compact&langs_count=7&theme=gotham"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DarkNiteDev&show_icons=true&theme=prussian" alt="DarkNiteDev" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNiteDev&layout=compact&langs_count=7&theme=prussian"/>
   
 </div>
 <div style="display: inline_block"><br>
