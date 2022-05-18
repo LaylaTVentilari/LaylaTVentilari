@@ -5,8 +5,8 @@
 <div align="center">
   
   <a href="https://github.com/DarkNiteDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=DarkNiteDev&show_icons=true&theme=prussian" alt="DarkNiteDev" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNiteDev&layout=compact&langs_count=7&theme=prussian"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DarkNiteDev&show_icons=true&theme=dracula" alt="DarkNiteDev" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNiteDev&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 <div style="display: inline_block"><br>
