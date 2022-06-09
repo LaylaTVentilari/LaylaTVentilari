@@ -3,6 +3,11 @@
 ## ***Discord: nite#4379*** <a href="https://www.linkedin.com/mwlite/in/layla-ventilari-135574145"> ***🖥️ Linkedin***</a> 
 
 <div align="center">
+<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+<div/>
+  
+<div align="center">
+  
   
   <a href="https://github.com/DarkNiteDev">
     <img src="https://github-readme-stats.vercel.app/api?username=DarkNiteDev&show_icons=true&theme=shades-of-purple" alt="DarkNiteDev" />  
@@ -22,7 +27,7 @@
 </div>
 </div>
   
-  
+ 
   
 
   
