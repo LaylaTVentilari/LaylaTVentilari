@@ -9,9 +9,9 @@
 <div align="center">
   
   
-  <a href="https://github.com/LaylaTVentilari">
-    <img src="https://github-readme-stats.vercel.app/api?username=LaylaTVentilari&show_icons=true&theme=shades-of-purple" alt="LaylaTVentilari" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaTVentilari&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <a href="https://github.com/LaylaVentillari">
+    <img src="https://github-readme-stats.vercel.app/api?username=LaylaVentillari&show_icons=true&theme=shades-of-purple" alt="LaylaVentillari" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaVentillari&layout=compact&langs_count=7&theme=shades-of-purple"/>
   
 </div>
 <div style="display: inline_block"><br>
