@@ -5,7 +5,7 @@
   
 <div align="center">
   
-  ![perspective_matte-490-128x128](https://user-images.githubusercontent.com/99200113/188358427-4db6917c-8306-48d5-8234-917c75a5698a.png)
+ ![perspective_matte-196-128x128](https://user-images.githubusercontent.com/99200113/188359284-b5f542bf-4dd4-4d5b-b666-4d647680b4ce.png)
   
   <a href="https://github.com/LaylaVentillari">
     <img src="https://github-readme-stats.vercel.app/api?username=LaylaVentillari&show_icons=true&theme=shades-of-purple" alt="LaylaVentillari" />  
