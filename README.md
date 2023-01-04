@@ -1,31 +1,29 @@
 
 
-## ***Discord: nite#4379*** <a href="https://www.linkedin.com/mwlite/in/layla-ventilari-135574145"> ***🖥️ LinkedIn***</a> 
-
-  
-<div align="center">
+ <div align="center">
   
   <a href="https://github.com/LaylaVentillari">
-    <img src="https://github-readme-stats.vercel.app/api?username=LaylaVentillari&show_icons=true&theme=shades-of-purple" alt="LaylaVentillari" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaVentillari&layout=compact&langs_count=7&theme=shades-of-purple"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LaylaVentillari&show_icons=true&theme=transparent" alt="LaylaVentillari" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaVentillari&layout=compact&langs_count=7&theme=transparent"/>
   
 </div>
-<div style="display: inline_block"><br>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png">
+<img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
+</div>
+</div>
+  
+ ##
+ 
+ <div> 
+  
+<a href="https://www.linkedin.com/layla-ventilari-13557414/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:ventilarilayla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-</div>
-</div>
-  
- 
   
 
   
