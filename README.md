@@ -7,7 +7,7 @@
   </a>
   <br />
   <br />
-  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/layla/layla/master/images/javascript.png" />
+  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png" />
   <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" />
   <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png" />
   <img alt="React" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png" />
