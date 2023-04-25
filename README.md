@@ -37,7 +37,7 @@ Front-end developer with a background in English Literature and currently pursui
 
 <a href="mailto:ventilarilayla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 <a href="https://discord.gg/seu-servidor" target="_blank"><img src="https://img.shields.io/discord/SEU-SERVIDOR-ID?logo=discord&style=for-the-badge" alt="Discord"></a>
- <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://www.linkedin.com/in/layla-ventilari-135574145/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </a>
 
 
