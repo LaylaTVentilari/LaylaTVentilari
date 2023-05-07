@@ -1,5 +1,4 @@
-# Hi there, I'm Layla Ventilari! 👩🏻‍💻 🧠 💬 💅 
-
+# Hi there, I'm Layla Ventilari! 👩🏻‍💻 💅🧠 💬  
 
 
 <div align="center">
