@@ -1,44 +1,43 @@
-# Hi there, I'm Layla Ventilari! 👩🏻‍💻 💅💬 🧠 
+Compreendo. Aqui está uma versão atualizada do README sem a formatação de lista com as bolinhas:
 
+<h1 align="center">Hi there, I'm Layla Ventilari! 🌟✨💻</h1>
 
-<div align="center">
-  <a href="https://github.com/layla-ventilari">
-    <img src="https://github-readme-stats.vercel.app/api?username=layla-ventilari&show_icons=true&theme=aura" alt="layla-ventilari" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=layla-ventilari&show_icons=true&theme=aura" alt="layla-ventilari" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-ventilari&layout=compact&langs_count=7&theme=aura" />
+</p>
+
+<h2 align="center">About Me</h2>
+<p align="center">Hey there! I'm Layla, a passionate front-end developer with a love for creating innovative and user-friendly web and mobile applications. With a background in English Literature and currently pursuing a degree in Systems Analysis and Development, I bring a unique blend of creativity and technical expertise to my projects. My goal is to leverage software development with AI integration to deliver modern and impactful solutions.</p>
+
+<h3 align="center">Skills and Interests</h3>
+<p align="center">
+  ✨ <strong>Expertise</strong>: ReactJS and ReactNative stack with TypeScript.<br>
+  🚀 <strong>Proficiency</strong>: JavaScript frameworks and libraries such as Next.js, Angular, and Node.js.<br>
+  🧠 <strong>Knowledge</strong>: Machine Learning and Deep Learning with Python.<br>
+  💡 <strong>Interest</strong>: Research areas focused on accessibility, utilizing Sentiment Analysis to improve User Experience.<br>
+  ⛓️ <strong>Blockchain</strong>: Enthusiast.
+</p>
+
+<h3 align="center">Projects</h3>
+<p align="center">Check out some of my notable projects:</p>
+<p align="center">
+  • <a href="https://github.com/layla-ventilari/project-1">Project 1</a> - A responsive e-commerce website built with React and powered by a Node.js backend.<br>
+  • <a href="https://github.com/layla-ventilari/project-2">Project 2</a> - A mobile app developed using React Native, providing real-time weather forecasts.<br>
+
+<h3 align="center">Contact Information</h3>
+<p align="center">
+  <a href="mailto:ventilarilayla@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/layla-ventilari">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layla-ventilari&layout=compact&langs_count=7&theme=aura" />
+  <a href="https://www.linkedin.com/in/layla-ventilari-135574145/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br />
-  <br />
-  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png" />
-  <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" />
-  <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png" />
-  <img alt="React" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png" />
-  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png" />
-  <img alt="linux" width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png" />
-</div>
+</p>
 
-
-
-## Skills and Interests
-
-Front-end developer with a background in English Literature and currently pursuing a degree in Systems Analysis and Development. Passionate about modern and innovative solutions that leverage software development with AI integration. Skilled in Web and Mobile Development, creating front-end applications with Natural Language Processing (NLP) functionalities using APIs and AI plugins. 
-
-### Highlights
-
-- **Expertise**: ReactJS and ReactNative stack with TypeScript.
-- **Proficiency**: JavaScript frameworks and libraries such as Next.js, Angular, and Node.js.
-- **Knowledge**: Machine Learning and Deep Learning with Python.
-- **Interest**: Research areas focused on accessibility, utilizing Sentiment Analysis to improve User Experience.
-- **Blockchain**: Enthusiast.
-
-### Contact Information 
-
-<a href="mailto:ventilarilayla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
- <a href="https://www.linkedin.com/in/layla-ventilari-135574145/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</a>
-
-
-
-
-                                                                                                                                                                
+<p align="center">
+  <em>Feel free to reach out to me. I'm open to exciting collaborations and opportunities!</em>
+</p>
