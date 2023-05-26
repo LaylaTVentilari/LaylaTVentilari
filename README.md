@@ -1,5 +1,3 @@
-Compreendo. Aqui está uma versão atualizada do README sem a formatação de lista com as bolinhas:
-
 <h1 align="center">Hi there, I'm Layla Ventilari! 🌟✨💻</h1>
 
 <p align="center">
