@@ -23,7 +23,7 @@
 <h3 align="center">Projects</h3>
 <p align="center">Check out some of my notable projects:</p>
 <p align="center">
-  • <a href="https://github.com/layla-ventilari/project-1">Project 1</a> - A responsive e-commerce website built with React and powered by a Node.js backend.<br>
+  • <a href="https://coffee-delivery-delta-ten.vercel.app/">Project 1</a> - A responsive e-commerce website built with React and powered by a Node.js backend.<br>
   • <a href="https://github.com/layla-ventilari/project-2">Project 2</a> - A mobile app developed using React Native, providing real-time weather forecasts.<br>
 
 <h3 align="center">Contact Information</h3>
