@@ -29,10 +29,13 @@
 <h3 align="center">Contact Information</h3>
 <p align="center">
   <a href="mailto:laylaventilari@proton.me">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+   <img width="48" height="48" src="https://img.icons8.com/color/48/protonmail-2.png" alt="protonmail-2"/>
   </a>
   <a href="https://www.linkedin.com/in/layla-ventilari-135574145/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="50" height="50" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="https://linktr.ee/laylaventilari_">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linktree.png" alt="linktree"/>
   </a>
 </p>
 
